@@ -1,7 +1,7 @@
 # M5Stack CO2 Sensor Board SCD30
 CO2,temperature and humidity sensores bord for M5Stack.
 
-![M5Stack用CO2センサー　拡張ボード(SCD30)](http://next-step.asia/wp-content/uploads/2022/01/M5stack_scd30_00.fw_.png "M5Stack用CO2センサー　拡張ボード(SCD30)")
+![M5Stack用CO2センサー　拡張ボード(SCD30)](http://next-step.asia/wp-content/uploads/2022/01/M5stack_scd30_00.fw_-1.png "M5Stack用CO2センサー　拡張ボード SCD30")
 
 **CO2センサー 「SCD30」**  
 商品説明

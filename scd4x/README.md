@@ -1,5 +1,5 @@
 # M5Stack CO2 Sensor Board SCD4X
-CO2,temperature and humidity sensores bord for SPRESENSE.
+CO2,temperature and humidity sensores bord for M5Stack.
 
 ![M5Stack用CO2センサー　拡張ボード(SCD4x)](http://next-step.asia/wp-content/uploads/2022/01/M5stack_scd40_00.fw_.png "M5Stack用CO2センサー　拡張ボード(SCD4x)")
 
